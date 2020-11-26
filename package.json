@@ -1,0 +1,28 @@
+{
+  "name": "jangbu_rest_api",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.16",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangbusrp/jangbu_rest_api.git"
+  },
+  "author": "jangbu sherpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangbusrp/jangbu_rest_api/issues"
+  },
+  "homepage": "https://github.com/jangbusrp/jangbu_rest_api#readme"
+}
